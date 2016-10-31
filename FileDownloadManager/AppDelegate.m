@@ -24,6 +24,7 @@
     _window.rootViewController = nav;
     _window.backgroundColor = [UIColor blackColor];
     [_window makeKeyAndVisible];
+    //hello
     return YES;
 }
 
